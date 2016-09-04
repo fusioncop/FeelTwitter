@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/67/trunk/signpost-core/src/main/java/oauth/signpost/basic
+END
+DefaultOAuthConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/54/trunk/signpost-core/src/main/java/oauth/signpost/basic/DefaultOAuthConsumer.java
+END
+HttpRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/61/trunk/signpost-core/src/main/java/oauth/signpost/basic/HttpRequestAdapter.java
+END
+DefaultOAuthProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/67/trunk/signpost-core/src/main/java/oauth/signpost/basic/DefaultOAuthProvider.java
+END

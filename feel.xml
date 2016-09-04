@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="x.xsl"?> 
+<statuses>
+  <status>
+    <created_at>Mon Sep 13 23:39:52 +0000 2010</created_at>
+    <id>24425537411</id>
+    <text>Damned nonsense!</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Mon Sep 13 23:37:19 +0000 2010</created_at>
+    <id>24425352914</id>
+    <text>booting 10minutes........my computer</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Mon Sep 13 23:30:43 +0000 2010</created_at>
+    <id>24424869826</id>
+    <text>I weak intutive faculty.</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Mon Sep 13 23:29:35 +0000 2010</created_at>
+    <id>24424786081</id>
+    <text>I salute you......jassy</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sun Sep 12 23:31:32 +0000 2010</created_at>
+    <id>24325885311</id>
+    <text>She fetch tears.....why?</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sun Sep 12 09:02:37 +0000 2010</created_at>
+    <id>24269529841</id>
+    <text>a contradiction</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sun Sep 12 09:00:45 +0000 2010</created_at>
+    <id>24269438465</id>
+    <text>The serious scandal was smothered up</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sun Sep 12 03:34:59 +0000 2010</created_at>
+    <id>24250984640</id>
+    <text>She did cruel to dog.</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sat Sep 11 12:16:30 +0000 2010</created_at>
+    <id>24189504694</id>
+    <text>stress full wowowowowo</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 08:30:45 +0000 2010</created_at>
+    <id>24088033485</id>
+    <text>a chronic liar</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 07:15:10 +0000 2010</created_at>
+    <id>24084809653</id>
+    <text>Arrogance of the rich toward the poor......... what happening?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 06:54:45 +0000 2010</created_at>
+    <id>24083897563</id>
+    <text>Hold me up to mockery</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 06:33:00 +0000 2010</created_at>
+    <id>24082923358</id>
+    <text>I&apos;m.. impatience of lying</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 05:50:40 +0000 2010</created_at>
+    <id>24080878785</id>
+    <text>stress.........relieve boredom</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 05:19:09 +0000 2010</created_at>
+    <id>24079239518</id>
+    <text>aback abandoned</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 04:49:49 +0000 2010</created_at>
+    <id>24077574139</id>
+    <text>, regulation and interactions between genes, proteins and metabolic pathways.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 04:49:41 +0000 2010</created_at>
+    <id>24077566488</id>
+    <text>Active Motif offers research kits, assays and biocomputing systems that help researchers study the function,</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 04:47:15 +0000 2010</created_at>
+    <id>24077424724</id>
+    <text>I love a qute  girl</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Fri Sep 10 04:43:11 +0000 2010</created_at>
+    <id>24077186474</id>
+    <text>assured manner</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Wed Sep 08 23:24:47 +0000 2010</created_at>
+    <id>23957396514</id>
+    <text>gray wheather.......My eyes look like lead........muddle.....</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Wed Sep 08 05:35:33 +0000 2010</created_at>
+    <id>23888593594</id>
+    <text>I d like to elude my obligation.</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Wed Sep 08 04:25:58 +0000 2010</created_at>
+    <id>23884490092</id>
+    <text>and I feel I am good for nothing.......</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Wed Sep 08 04:24:24 +0000 2010</created_at>
+    <id>23884390471</id>
+    <text>Bad weather depresses me.</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Sat Sep 04 14:26:17 +0000 2010</created_at>
+    <id>22979823330</id>
+    <text>just happy,just sad</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Aug 31 21:56:52 +0000 2010</created_at>
+    <id>22652283911</id>
+    <text>@barry_lee 답변이 늦었습니다. 어쨌든 감사드립니다. c#의 무슨 책인가요?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>31136068</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>barry_lee</in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Aug 31 07:34:56 +0000 2010</created_at>
+    <id>22596633754</id>
+    <text>@barry_lee 드립니다. 꾸벅꾸벅</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>31136068</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>barry_lee</in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Aug 31 07:34:20 +0000 2010</created_at>
+    <id>22596602347</id>
+    <text>@barry_lee 선생님의 짹짹이라는 프로그램을 잘 쓰고 있는 학생입니다. 현재, IT분야를 공부하고 있는데 트위터에 관심이 많습니다. 혹시 짹짹 프로그램의 소스를 보여주실수 있으신지요. 트위터 API를 가지고 몇달 주물럭 했는데 답이 안보여요 부탁</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>31136068</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>barry_lee</in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Thu Jul 29 03:57:29 +0000 2010</created_at>
+    <id>19796825430</id>
+    <text>@susanorlean Where do you livez?</text>
+    <source>&lt;a href=&quot;http://www.levelupstudio.fr&quot; rel=&quot;nofollow&quot;&gt;Touiteur&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>19796641779</in_reply_to_status_id>
+    <in_reply_to_user_id>11447852</in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name>susanorlean</in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Jul 27 22:34:12 +0000 2010</created_at>
+    <id>19691226679</id>
+    <text>안젤리나졸리,`역시슈퍼스타`···방한규모도초특급 http://bit.ly/aylcVE</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Jul 27 13:29:56 +0000 2010</created_at>
+    <id>19656588075</id>
+    <text>sleepy</text>
+    <source>&lt;a href=&quot;http://www.sharp.co.jp/&quot; rel=&quot;nofollow&quot;&gt;twit SH&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Tue Jul 20 23:58:17 +0000 2010</created_at>
+    <id>19032667590</id>
+    <text>KBS&quot;김미화사과하면끝까지갈생각없다&quot; http://bit.ly/aexoGi</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Thu Jul 15 06:42:04 +0000 2010</created_at>
+    <id>18582714522</id>
+    <text>아무것도</text>
+    <source>&lt;a href=&quot;http://www.levelupstudio.fr&quot; rel=&quot;nofollow&quot;&gt;Touiteur&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Thu Jul 15 06:34:00 +0000 2010</created_at>
+    <id>18582348393</id>
+    <text>２６, 041-8533 (JST). Comment: today, groomy
+ #photwi</text>
+    <source>&lt;a href=&quot;http://yusuke.homeip.net/twitter4j/&quot; rel=&quot;nofollow&quot;&gt;Twitter4J&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Thu Jul 15 06:31:04 +0000 2010</created_at>
+    <id>18582211448</id>
+    <text>２６, 041-8533 (JST). Comment: shit
+ #photwi</text>
+    <source>&lt;a href=&quot;http://yusuke.homeip.net/twitter4j/&quot; rel=&quot;nofollow&quot;&gt;Twitter4J&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+  <status>
+    <created_at>Mon Jul 05 20:20:18 +0000 2010</created_at>
+    <id>17814762178</id>
+    <text>３, ２０ (JST). Comment: hala #photwi</text>
+    <source>&lt;a href=&quot;http://yusuke.homeip.net/twitter4j/&quot; rel=&quot;nofollow&quot;&gt;Twitter4J&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <favorited>false</favorited>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <retweet_count></retweet_count>
+    <retweeted>false</retweeted>
+    <user>
+    </user>
+    <geo></geo>
+    <coordinates></coordinates>
+    <place></place>
+    <contributors></contributors>
+  </status>
+</statuses>

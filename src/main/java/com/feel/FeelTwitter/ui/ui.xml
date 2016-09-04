@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<panel>
+
+<dialog name="dialog" icon="v.jpg" text="ParkFeelTWEET" modal="true" columns="2" gap="1" top="1" left="4" bottom="4" right="4">
+
+ 
+
+	<panel columns="2" gap="8" top="40" left="8" right="8" weightx="0">
+           
+
+		<label text="UserID" alignment="right" for="UserID"></label>
+		<textfield name="UserID" action="setUserID(this.text)" weightx="1"/>
+	
+		<label text="Password" alignment="right" for="password"/>
+		<passwordfield name="password" action="setPassword(this.text)"/>
+		
+		<label text="SaveFile" alignment="right" for="file"/>
+		<textfield name="file" action="setFile(this.text)"/>
+		
+		<label text="ProxyNO" alignment="right" for="proxy"/>
+		<textfield name="proxy" action="setProxy(this.text)"/>
+	
+		<label/>
+		
+		<button action="action()" icon="ok.gif" mnemonic="0" name="start" text="GO" enabled="true" type="default"/>
+
+
+	
+	</panel>
+	
+	<panel columns="1" gap="8" top="8" left="8" right="8" bottom="8" weighty="1">
+		<label text="PROCESS"/>
+		<textarea name="log" rows="10" width="400" height="50" weightx="3" weighty="3"/>
+
+	</panel>
+		
+  </dialog>
+  </panel>
